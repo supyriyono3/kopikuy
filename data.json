@@ -1,0 +1,101 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "120 ML",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "120 ML",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "120 ML",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "120 ML",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "120 ML",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "non kopi": [
+        {
+            "foto": "https://images.pexels.com/photos/1304542/pexels-photo-1304542.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Es Lemon",
+            "size": "120 Ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=es+lemon&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/5947035/pexels-photo-5947035.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Es Buah Naga",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=es+buah+naga&tbm=shop"
+        },
+        {
+            "foto": "https://cdn.pixabay.com/photo/2016/11/29/01/11/beverages-1866476_1280.jpg",
+            "nama": "Ice Tea",
+            "size": "150 Ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=es+tea+manis&tbm=shop"
+        },
+        {
+            "foto": "https://media.istockphoto.com/id/511024538/id/foto/smoothie-alpukat.jpg?s=1024x1024&w=is&k=20&c=LKDX2fH67qB-v-lNJ0BCPlZzS-oY3CjNVJwTLkAGdrU=",
+            "nama": "Ice Avocado",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=ice+avocado&tbm=shop"
+        }
+    ],
+    "makanan": [
+        {
+            "foto": "https://cdn.pixabay.com/photo/2018/03/04/20/05/pizza-3199081_1280.jpg",
+            "nama": "pizza cheese mozzarella",
+            "size": "Satu Porsi",
+            "harga": "45.000",
+            "link": "https://www.google.com/search?q=pizza+cheese+mozzarella&tbm=shop"
+        },
+        {
+            "foto": "https://cdn.pixabay.com/photo/2018/03/04/20/08/burger-3199088_1280.jpg",
+            "nama": "Kraby Patty",
+            "size": "Satu Porsi",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=burger&tbm=shop"
+        },
+        {
+            "foto": "https://cdn.pixabay.com/photo/2017/09/22/18/34/pasta-2776679_1280.jpg",
+            "nama": "Pasta",
+            "size": "Satu Porsi",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=pasta&tbm=shop"
+        },
+        {
+            "foto": "https://cdn.pixabay.com/photo/2017/09/19/08/52/pancake-2764589_1280.jpg",
+            "nama": "Pancake Strawberry",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=pancake+strawberry&tbm=shop"
+        }
+    ]
+}
